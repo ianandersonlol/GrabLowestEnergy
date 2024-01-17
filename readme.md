@@ -66,4 +66,3 @@ python grablowestenergy.py -i /path/to/input -o /path/to/output -n 10
 ```
 
 If you encounter any issues during execution, make sure the input directory contains the correct structure of protein folders, each with a `results` subfolder containing the `.sc` and `.pdb` files. The script will inform you if the necessary directories or files are missing.
-Markdown documentation has been created: ('grablowestenergy', '.py').md
